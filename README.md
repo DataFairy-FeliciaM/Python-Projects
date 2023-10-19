@@ -4,6 +4,11 @@ Using Tkinter to create an App that calculates student average score All project
 Average_cal.py
 An App that helps calculate students average test scores
 
+![Screenshot 2023-10-19 143016](https://github.com/DataFairy-FeliciaM/Python-Projects/assets/119903285/8adb8a78-8636-41ef-a925-828296dc033a)
+
+
+
+
 <h3>Technology/ Libraries Used:</h3>
 <ul>
 <li>Tkinter</li>
