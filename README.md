@@ -42,4 +42,5 @@ An App that helps calculate students average test scores
 <h3>Arranging the Grid</h3>
 
 
+![Screenshot 2023-10-19 142752](https://github.com/DataFairy-FeliciaM/Python-Projects/assets/119903285/85d5e35f-4d34-43ba-b3fc-567518e7b527)
 
