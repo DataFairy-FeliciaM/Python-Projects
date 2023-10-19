@@ -26,3 +26,6 @@ An App that helps calculate students average test scores
 
 <h3>Function for Quit button and title to be displayed</h3>
 
+![Screenshot 2023-10-19 140904](https://github.com/DataFairy-FeliciaM/Python-Projects/assets/119903285/8994d1bd-172b-4d3c-a91f-2deab92959e0)
+
+
