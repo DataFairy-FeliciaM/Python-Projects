@@ -31,4 +31,8 @@ An App that helps calculate students average test scores
 
 <h3>Labels for inputting/ What the user will see</h3>
 
+![Screenshot 2023-10-19 141338](https://github.com/DataFairy-FeliciaM/Python-Projects/assets/119903285/cacae46f-70c5-4822-9d8e-beccfd316c88)
+
+
+<h3>What tesxt will be on the button and what the BUTTON does</h3>
 
