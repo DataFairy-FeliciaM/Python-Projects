@@ -18,6 +18,7 @@ An App that helps calculate students average test scores
 
 
 <h3>Using TryExcept for Error handling :no_bell:</h3>
+<p><i>This code includes the message that will be displayed when  scores recorder </i></p>
 
 
 ![Screenshot 2023-10-19 140548](https://github.com/DataFairy-FeliciaM/Python-Projects/assets/119903285/2d09822b-3f90-42e8-9a4b-f9e028540e7c)
