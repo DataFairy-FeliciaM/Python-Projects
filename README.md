@@ -17,6 +17,12 @@ An App that helps calculate students average test scores
 ![Screenshot 2023-10-19 135634](https://github.com/DataFairy-FeliciaM/Python-Projects/assets/119903285/250768a1-1bcc-4b40-ae88-d61a57e541e2)
 
 
-<h3>Using TryExcept for Eror handling :no_bell:</h3>
+<h3>Using TryExcept for Error handling :no_bell:</h3>
 
+
+![Screenshot 2023-10-19 140548](https://github.com/DataFairy-FeliciaM/Python-Projects/assets/119903285/2d09822b-3f90-42e8-9a4b-f9e028540e7c)
+
+
+
+<h3>Function for Quit button and title to be displayed</h3>
 
