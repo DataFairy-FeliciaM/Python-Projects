@@ -34,10 +34,12 @@ An App that helps calculate students average test scores
 ![Screenshot 2023-10-19 141338](https://github.com/DataFairy-FeliciaM/Python-Projects/assets/119903285/cacae46f-70c5-4822-9d8e-beccfd316c88)
 
 
-<h3>What tesxt will be on the button and what the BUTTON does</h3>
+<h3>What text will be on the button (<b>font family, font size & styling etc</b> )and what the BUTTON does</h3>
 
 ![Screenshot 2023-10-19 142003](https://github.com/DataFairy-FeliciaM/Python-Projects/assets/119903285/07bf92a4-d6ba-4287-bc9a-272462e3e732)
 
+
+<h3>Arranging the Grid</h3>
 
 
 
