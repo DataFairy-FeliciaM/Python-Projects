@@ -13,3 +13,10 @@ An App that helps calculate students average test scores
   <li>Importing Tkinter</li>
   <li>declaring a function that calculates the average of the scores </li>
 </ol>
+
+![Screenshot 2023-10-19 135634](https://github.com/DataFairy-FeliciaM/Python-Projects/assets/119903285/250768a1-1bcc-4b40-ae88-d61a57e541e2)
+
+
+<h3>Using TryExcept for Eror handling :no_bell:</h3>
+
+
